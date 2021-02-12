@@ -122,7 +122,7 @@ Brit More, from Seattle's King 5 NBC affiliate station, interviewed project foun
 # People
 #### Kyle Crowder 
 
-```{r out.width='20%', out.extra='style="float:left; padding:10px; transform:rotate(90deg);"'}
+```{r out.width='20%', out.extra='style="float:left; padding:10px"'}
 knitr::include_graphics("images/crowder_2021.jpg")
 ```  
 
