@@ -122,6 +122,14 @@ Brit More, from Seattle's King 5 NBC affiliate station, interviewed project foun
 # People
 #### Kyle Crowder 
 
+```{r out.width='20%', out.extra='style="float:left; padding:10px; transform:rotate(90deg);"'}
+knitr::include_graphics("images/crowder_2021.jpg")
+```  
+
+
+Kyle Crowder is a Professor in the Department of Sociology at the University of Washington.  His research focuses on the processes of residential differentiation and the effects of physical and social context on racial and ethnic stratification in health and life conditions.  Most of his recent work deals specifically with processes of neighborhood selection and how racial and ethnic differences in the residential mobility processes shape broader patterns of residential segregation.  He is currently working with several collaborators, using a range of methodological approaches, to examine: the roles of racial differences in neighborhood experiences, daily activities, and social networks in processes of residential mobility and the perpetuation of racial segregation; the impacts of discrimination and anticipated discrimination on housing access; and the effects of environmental inequality and pollution exposure, as well as their interaction with both microlevel and contextual sources of stress, on health disparities.
+
+Crowder holds a BA in Sociology from the University of Washington and a PhD in Sociology from the University at Albany.
   
 #### Rebecca J. Walter  
 
