@@ -143,6 +143,19 @@ Dr. Walter has over ten years of experience as a practitioner in the housing fie
   
 #### Arthur Acolin  
 #### Chris Hess  
+```{r out.width='20%', out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics("images/hess.png")
+```  
+Chris is currently a Postdoctoral Associate at Cornell University in the Department of Policy Analysis and Management, having recently received my Ph.D in Sociology at the University of Washington. His research interests focus on residential segregation, housing markets and the changing spatial distribution of place-based inequalities. He had published research in peer-reviewed outlets like Urban Affairs Review, Demography and Cityscape. His work has a quantitative focus, and he is a big proponent of the R language for statistical analysis and data visualization. He ❤ ggplot2.
+
+His dissertation investigated the importance of rising suburban poverty for processes of residential mobility and neighborhood segregation. Empirical analyses draw on Census data and the Panel Study of Income Dynamics (PSID).
+\  
+  
+  
+\  
+  
+\  
+  
 #### Ian Kennedy  
 ```{r out.width='20%', out.extra='style="float:left; padding:10px"'}
 knitr::include_graphics("images/kennedy.jpg")
@@ -151,6 +164,24 @@ knitr::include_graphics("images/kennedy.jpg")
 Ian Kennedy is a Doctoral candidate and computational social scientist working at the intersection of race, digital platforms, and text analysis. Their work aims to contribute to understandings of how contemporary racism works, in both visible and less visible ways. This means looking for data in new places, like in Craigslist rental ad texts, or by developing new uses for large-scale administrative data. They are also committed to producing useful work beyond scholarly publications, working with groups like the Northwest Justice Project to identify illegal Craigslist ads or with  the Election Integrity Partnership to monitor misinformation during the 2020 election.  
   
 Ian recived their MA in Sociology from the University of Washington, and holds an MA in Experimental Humanities from NYU and a BA in History from Earlham College.  
+  
+\  
+  
+  
+\  
+  
+\  
+  
+#### Ana Costa  
+  
+```{r out.width='20%', out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics("images/costa.jpg")
+```  
+  
+Ana Costa is a Doctoral student of Urban Design and Planning at the University of Washington. She holds a Master of Public Administration degree from Boise State University and a bachelor’s degree in Architecture and Urbanism from the Federal University of Minas Gerais, Brazil. She also spent 18 months in Germany for a study abroad with an emphasis on sustainable development and cultural sciences. Her research interests include affordable housing policy, urban informality, and state-society relations. She has worked as a Research Assistant at the Idaho Policy Institute, where she conducted comprehensive qualitative and quantitative research to clients from the private, public, and nonprofit sectors. She has also worked in the fields of historic preservation, zoning, comprehensive planning, and participatory budgeting.
+  
+\  
+  
   
 \  
   
@@ -174,12 +205,7 @@ Ian recived their MA in Sociology from the University of Washington, and holds a
    
 \  
    
-#### Ana Costa  
-  
-\  
-   
-\  
-   
+
 #### Alex Ramiller  
   
 \  
