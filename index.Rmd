@@ -10,21 +10,30 @@ output:
 toc_depth: 5
 number_sections: true
 theme: yeti
+title: The National Rent Project
 ---
+
+<style type="text/css">
+
+h1.title {
+  font-size: 44px;
+  text-align: center;
+}
+
+</style>
 
 ```{r include = FALSE}
 knitr::opts_chunk$set(echo=FALSE)
 ```
 
 <center>
-<font size="24">The National Rent Project</font> 
 
 ![](images/logo.png){width='60%'} 
-</center>  
+
 
   
 *A interdisciplinary research effort at the University of Washington*
-
+</center>  
 
 # About
 The National Rent Project is a interdisciplinary effort to collect real-time rent data from online housing platforms, and to use that data to produce policy and reserach findings to further understandings of rental markets, housing outcomes, discrimination and segregation. 
