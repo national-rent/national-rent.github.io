@@ -141,7 +141,6 @@ Rebecca J. Walter is an Associate Professor and Windermere Endowed Chair in the 
   
 Dr. Walter has over ten years of experience as a practitioner in the housing field. Prior to joining academia, she was the Director of Education, Research, and Grants at the Housing Authority of the City of Fort Lauderdale. She also worked as a project manager at the Urban Land Institute where she coordinated policy initiatives to remove regulatory barriers restricting the production of workforce housing in three metropolitan regions. Dr. Walter received her Ph.D. in Geosciences, with a specialization in Urban Geography, and a Master of Urban and Regional Planning from Florida Atlantic University. She holds a Bachelor of Science in Economics from the University of New Hampshire and a Bachelor of Arts in Psychology from the University of Nevada – Reno. Dr. Walter is a National Development Council Economic Development Finance Professional (EDFP) and Certified Planner (AICP).  
   
-#### Arthur Acolin  
 #### Chris Hess  
 ```{r out.width='20%', out.extra='style="float:left; padding:10px"'}
 knitr::include_graphics("images/hess.png")
@@ -180,35 +179,5 @@ knitr::include_graphics("images/costa.jpg")
   
 Ana Costa is a Doctoral student of Urban Design and Planning at the University of Washington. She holds a Master of Public Administration degree from Boise State University and a bachelor’s degree in Architecture and Urbanism from the Federal University of Minas Gerais, Brazil. She also spent 18 months in Germany for a study abroad with an emphasis on sustainable development and cultural sciences. Her research interests include affordable housing policy, urban informality, and state-society relations. She has worked as a Research Assistant at the Idaho Policy Institute, where she conducted comprehensive qualitative and quantitative research to clients from the private, public, and nonprofit sectors. She has also worked in the fields of historic preservation, zoning, comprehensive planning, and participatory budgeting.
   
-\  
-  
-  
-\  
-  
-\  
-  
-#### Victoria Sass
 
-\  
-   
-\  
-   
-\  
-   
-\  
-   
-\  
-   
-\  
-     
-\  
-   
-\  
-   
-
-#### Alex Ramiller  
-  
-\  
-   
-\  
    
